@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --vermelho-hover: #69001d;
+    --vermelho-escuro: #b10333;
+    --vermelho-claro: #de003e;
+    --azul: #294c71;
+    --borda: rgba(0, 0, 0, 0.090);
+    --li-hover: rgba(128, 128, 128, 0.342);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+ul, ol, li {
+    list-style: none;
+}
